@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.chrome-test-profile/
+tmp/
+prioriza-mvp-publico.zip
