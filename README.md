@@ -1,6 +1,6 @@
 # Prioriza
 
-MVP desenvolvido para o **2º Hackathon IFC Concórdia 2026** pela equipe **Felipe, Wesley, Enzo P. e Isabel**.
+MVP desenvolvido para o **2º Hackathon IFC Concórdia 2026** pela equipe **Felipe, Weslley, Enzo P. e Isabel**.
 
 ## Problema validado
 
@@ -25,15 +25,6 @@ O cálculo fica isolado da visão do cliente. Assim, a equipe trabalha com crit�
 - Flag de **⚡ Ganho Rápido** para demandas com esforço 1.
 - Alerta de **Risco de SLA** quando urgência ou prazo recebem nota 4 ou 5.
 - Botão de dados demonstrativos, exclusivo para o pitch, com seis cenários prontos.
-
-## Como rodar localmente
-
-```bash
-npm install
-npm run dev
-```
-
-Abra o endereço exibido no terminal, normalmente `http://localhost:5173`.
 
 ## Site publicado
 
