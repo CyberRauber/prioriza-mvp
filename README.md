@@ -39,7 +39,7 @@ O cálculo fica isolado da visão do cliente. Assim, a equipe trabalha com crit�
 
 ## Site publicado
 
-A landing page e o MVP são publicados pelo GitHub Pages. O MVP precisa ser compilado pelo workflow do GitHub Actions.
+A landing page é a primeira página do site. O aplicativo é compilado pelo Vite e publicado em uma pasta separada pelo GitHub Actions.
 
 - **Landing Page (página inicial):** https://cyberrauber.github.io/prioriza-mvp/
 - **Landing Page (endereço direto):** https://cyberrauber.github.io/prioriza-mvp/landing/
