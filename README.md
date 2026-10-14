@@ -4,9 +4,12 @@ MVP desenvolvido para o **2º Hackathon IFC Concórdia 2026** pela equipe **Feli
 
 ## Landing Page
 
-A página de apresentação do projeto está publicada em:
+A landing page é a primeira página do site:
 
-**https://cyberrauber.github.io/prioriza-mvp/landing/**
+**https://cyberrauber.github.io/prioriza-mvp/**
+
+A versão no caminho `/landing/` também fica disponível para acesso direto:
+https://cyberrauber.github.io/prioriza-mvp/landing/
 
 Ela apresenta o problema, a solução proposta, as principais funcionalidades e benefícios, o público-alvo e os links para conhecer o MVP.
 
@@ -40,7 +43,7 @@ A landing page e o MVP são publicados pelo GitHub Pages. O MVP precisa ser comp
 
 - **Landing Page (página inicial):** https://cyberrauber.github.io/prioriza-mvp/
 - **Landing Page (endereço direto):** https://cyberrauber.github.io/prioriza-mvp/landing/
-- **MVP:** https://cyberrauber.github.io/prioriza-mvp/app//
+- **MVP:** https://cyberrauber.github.io/prioriza-mvp/app/
 - **Código-fonte:** https://github.com/CyberRauber/prioriza-mvp
 
 ## Equipe
