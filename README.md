@@ -2,6 +2,14 @@
 
 MVP desenvolvido para o **2º Hackathon IFC Concórdia 2026** pela equipe **Felipe, Weslley, Enzo P. e Isabel**.
 
+## Landing Page
+
+A página de apresentação do projeto está publicada em:
+
+**https://cyberrauber.github.io/prioriza-mvp/landing/**
+
+Ela apresenta o problema, a solução proposta, as principais funcionalidades e benefícios, o público-alvo e os links para conhecer o MVP.
+
 ## Problema validado
 
 Empresas de software recebem solicitações de clientes, suporte, comercial e produto. Quando não existem critérios comuns, a prioridade pode depender de pressão, percepção individual ou reuniões longas. Isso dificulta justificar decisões e pode frustrar clientes que não recebem retorno claro.
@@ -29,6 +37,13 @@ O cálculo fica isolado da visão do cliente. Assim, a equipe trabalha com crit�
 ## Site publicado
 
 O projeto está configurado para ser publicado automaticamente pelo GitHub Pages sempre que houver alterações na branch `main`.
+
+- **Landing Page:** https://cyberrauber.github.io/prioriza-mvp/landing/
+- **MVP:** https://cyberrauber.github.io/prioriza-mvp/
+
+## Equipe
+
+Felipe, Weslley, Enzo P. e Isabel.
 
 ## Limites do MVP
 
