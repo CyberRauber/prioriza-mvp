@@ -38,8 +38,9 @@ O cálculo fica isolado da visão do cliente. Assim, a equipe trabalha com crit�
 
 A landing page e o MVP são publicados pelo GitHub Pages. O MVP precisa ser compilado pelo workflow do GitHub Actions.
 
-- **Landing Page:** https://cyberrauber.github.io/prioriza-mvp/landing/
-- **MVP:** https://cyberrauber.github.io/prioriza-mvp/
+- **Landing Page (página inicial):** https://cyberrauber.github.io/prioriza-mvp/
+- **Landing Page (endereço direto):** https://cyberrauber.github.io/prioriza-mvp/landing/
+- **MVP:** https://cyberrauber.github.io/prioriza-mvp/app//
 - **Código-fonte:** https://github.com/CyberRauber/prioriza-mvp
 
 ## Equipe
