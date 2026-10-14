@@ -33,6 +33,11 @@ jobs:
       - name: Compilar o site
         run: npm run build
 
+      - name: Preparar landing page para publicação
+        run: |
+          mkdir -p dist/landing
+          cp -R landing/. dist/landing/
+
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
 
