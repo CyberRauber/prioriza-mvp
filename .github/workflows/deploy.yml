@@ -21,6 +21,11 @@ jobs:
       - name: Baixar arquivos
         uses: actions/checkout@v4
 
+      - name: Usar GitHub Actions como fonte do Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method PUT repos/${{ github.repository }}/pages -f build_type=workflow
+
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
