@@ -33,8 +33,12 @@ jobs:
       - name: Compilar o site
         run: npm run build
 
-      - name: Preparar landing page para publicação
+      - name: Preparar landing como página inicial e organizar o app
         run: |
+          mv dist dist-app
+          mkdir -p dist
+          mv dist-app dist/app
+          cp -R landing/. dist/
           mkdir -p dist/landing
           cp -R landing/. dist/landing/
 
