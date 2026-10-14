@@ -36,10 +36,11 @@ O cálculo fica isolado da visão do cliente. Assim, a equipe trabalha com crit�
 
 ## Site publicado
 
-O projeto está configurado para ser publicado automaticamente pelo GitHub Pages sempre que houver alterações na branch `main`.
+A página inicial abre a landing page do projeto e a publicação é atualizada pelo GitHub Pages.
 
-- **Landing Page:** https://cyberrauber.github.io/prioriza-mvp/landing/
-- **MVP:** https://cyberrauber.github.io/prioriza-mvp/
+- **Landing Page:** https://cyberrauber.github.io/prioriza-mvp/
+- **Endereço direto da Landing Page:** https://cyberrauber.github.io/prioriza-mvp/landing/
+- **Código-fonte do MVP:** https://github.com/CyberRauber/prioriza-mvp
 
 ## Equipe
 
