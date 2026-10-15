@@ -55,6 +55,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      # A publicação automática por branch/Jekyll estava sobrescrevendo o app compilado.
+      # Aguardar ela terminar e publicar depois garante que o artefato Vite seja o último deploy.
+      - name: Aguardar o build automático do GitHub Pages
+        run: sleep 120
+
       - name: Publicar
         id: deployment
         uses: actions/deploy-pages@v4
